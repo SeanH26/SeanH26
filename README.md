@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Sean!
+## Hello there 👋 My name is Sean!
 
 - 🔭 I’m currently working on the password cracker assignment.
 - 🌱 I'm currently learning HTML5 and Python
