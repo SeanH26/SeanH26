@@ -1,7 +1,7 @@
 ## Hello there 👋 My name is Sean!
 
 - 🔭 I’m currently working on the password cracker assignment.
-- 🌱 I'm currently learning HTML5 and Python
+- 🌱 I'm currently learning HTML5 and Python.
 - 💬 Ask me about anything, i'm happy to answer any questions others might have.
 <!--
 **SeanH26/SeanH26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
